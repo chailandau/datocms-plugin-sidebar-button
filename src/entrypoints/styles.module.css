@@ -1,0 +1,27 @@
+.sidebar-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.sidebar-panel a {
+  text-align: center;
+}
+
+.inline-code {
+  display: inline-block;
+  background-color: #f4f4f4;
+  padding: 2px;
+  border-radius: 4px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(158, 4, 4);
+}
+
+.hint p {
+  margin: 8px 0;
+}
+
+.separator {
+  border-top: 1px solid #e0e0e0;
+  margin: 16px 0;
+}
