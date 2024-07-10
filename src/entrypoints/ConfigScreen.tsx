@@ -107,7 +107,6 @@ export default function ConfigScreen({ ctx }: PropTypes) {
                 )}
               </Field>
             </FieldGroup>
-            <hr className={styles["separator"]} />
 
             <hr className={styles["separator"]} />
             <Field name="panelLocation" defaultValue="global">
