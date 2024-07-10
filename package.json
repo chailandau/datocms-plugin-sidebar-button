@@ -1,6 +1,6 @@
 {
   "name": "datocms-plugin-custom-sidebar-button",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/chailandau/datocms-plugin-sidebar-button",
   "description": "A DatoCMS plugin that adds a link or webhook button to the sidebar.",
   "keywords": [
