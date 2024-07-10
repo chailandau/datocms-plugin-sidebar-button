@@ -1,4 +1,4 @@
-# Sidebar Webhook
+# Custom Sidebar Button
 
 Add a sidebar panel featuring a custom button. Button can be configured to be an external link or webhook.
 
