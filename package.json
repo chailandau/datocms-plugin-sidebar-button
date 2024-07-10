@@ -48,7 +48,7 @@
   },
   "datoCmsPlugin": {
     "title": "Sidebar Button",
-    "previewImage": "",
+    "previewImage": "public/thumb.webp",
     "coverImage": "public/thumb.webp",
     "entryPoint": "build/index.html"
   },
